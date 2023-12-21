@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Hi, My Name is Dieu 🧑‍💻
+My Name is Dieu 🧑‍💻
 
 
 ### 🌐Socials
