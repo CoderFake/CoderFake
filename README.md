@@ -1,14 +1,10 @@
 ### Hi there 👋
 
-<!--
-**CoderFake/CoderFake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- Hi, My Name is Dieu 🧑‍💻
+Hi, My Name is Dieu 🧑‍💻
 
 
-## 🌐Socials
+### 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hoangdieu.22022002) 
 
 # 💻Tech Stack
